@@ -1,4 +1,8 @@
 <!DOCTYPE html>
+body {
+    background-color: yellow; /* Bright yellow to test if CSS is working */
+}
+
 <html lang="en">
 <head>
     <meta charset="UTF-8">
