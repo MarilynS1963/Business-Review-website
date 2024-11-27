@@ -12,3 +12,11 @@
     <script src="script.js"></script>
 </body>
 </html>
+<h1>Welcome to Business Review</h1>
+<p>We provide the best reviews for businesses worldwide.</p>
+
+<!-- Add a new section -->
+<section>
+    <h2>Our Services</h2>
+    <p>Explore our detailed reviews and insights into businesses.</p>
+</section>
