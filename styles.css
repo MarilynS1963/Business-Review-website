@@ -10,3 +10,21 @@ h1 {
 p {
     font-size: 18px;
 }
+body {
+    background-color: #f0f8ff;
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    color: #003366;
+}
+
+p {
+    font-size: 18px;
+}
+
+section {
+    margin-top: 20px;
+    padding: 10px;
+    background-color: #e0f7fa;
+}
