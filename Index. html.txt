@@ -20,3 +20,21 @@
     <h2>Our Services</h2>
     <p>Explore our detailed reviews and insights into businesses.</p>
 </section>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Business Review</title>
+    <link rel="stylesheet" href="styles.css"> <!-- This links your CSS file -->
+</head>
+<body>
+    <h1>Welcome to Business Review</h1>
+    <p>We provide the best reviews for businesses worldwide.</p>
+
+    <section>
+        <h2>Our Services</h2>
+        <p>Explore our detailed reviews and insights into businesses.</p>
+    </section>
+</body>
+</html>
